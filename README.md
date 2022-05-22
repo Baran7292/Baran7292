@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Malihe Hariri
-- 👀 I’m interested in web development applications and distributed platform like cloud computing
+- 👀 I’m interested in Web Development Applications and Distributed Platform like cloud Computing
 - 🌱 I’m currently working in Electricity Distribution Company. Also, I've been working in Toos tech GmbH company as a freelancer.
 - 💞️ I’m looking to collaborate on more projects in web development and distributed systems.
 
